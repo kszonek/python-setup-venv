@@ -12,4 +12,9 @@ touch requirements.txt
 source ./path/setup-venv.sh
 ```
 
+Freeze dependencies
+```
+pip3 freeze > requirements.txt
+```
+
 Released under GPL v3.
